@@ -1,47 +1,74 @@
-<h1 align="center">Francisco Porciel - Backend Developer</h1>
+<h1 align="center">Hello! I'm Francisco Porciel 👋</h1>
 
-<h3 align="center">Hello! I'm Francisco Porciel, a backend developer with experience in various technologies and tools. In this repository, you'll find information about my profile, skills, and projects.</h3>
+<h3 align="center">A backend developer with experience in various technologies and tools</h3>
 
-<h3 align="center">Languages and Tools:</h3
+---
+
+- 📝 Currently immersed in my **Final Project for the "Soy Henry" Bootcamp**
+
+- 📖 Currently expanding my knowledge in **Typescript, MongoDB, and Next.js**
+
+- 👥 Open to collaborating on exciting **back-end and front-end projects**
+
+- 🎮 In my free time, you can find me **listening to music, playing football or videogames...and coding**
+
+---
+
+<h3 align="center">🛠 Languages and Tools:</h3>
 
 <div align="center">
   
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/css/)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frannporciel@gmail.com)
+[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![sequalize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
+[![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   
 </div>
 
-<h3 align="center" 🔗 Contact me:</h3>
+---
+
+<h3 align="center">📧 Contact me:</h3>
 
 <div align="center">
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frannpor/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frannporciel/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frannporciel@gmail.com)
   
 </div>
 
-## Experience
+---
 
-As a backend developer, I have worked on projects involving web application development using JavaScript and TypeScript. My main areas of expertise include:
+<h3 align="center">🌟 Miscs</h3>
 
-- Developing web applications using React as the frontend library and Redux for state management.
-- Building RESTful APIs using Node.js and Express for backend development.
-- Utilizing databases, including MongoDB and PostgreSQL, to efficiently store and manage information in applications.
-- Implementing modern and stylized interfaces using tools like Tailwind CSS.
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.scrum.org/resources/what-scrum-module)
+[![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+[![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://slack.com/)
 
-## Additional Methodologies and Tools
+</div>
 
-In addition to my technical skills, I also have experience with agile methodologies such as Scrum for effective project management in a team environment. I have used tools like Trello for task organization and tracking.
+---
 
-## Contact
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frannpor&theme=swift&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frannpor&theme=swift&hide_border=true&layout=compact" />
+</p>
 
-If you're interested in collaborating on a project or have any questions, feel free to contact me:
+---
 
-- Email: [frannporciel@gmail.com](frannporciel@gmail.com)
-- LinkedIn: [linkedin.com/in/frannpor](https://www.linkedin.com/in/frannpor)
-
+<p align="center">
 Thank you for visiting my profile! I hope you find my work interesting, and feel free to explore my projects in this repository.
+</p>
