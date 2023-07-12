@@ -4,13 +4,13 @@
 
 ---
 
-- 📝 Currently immersed in my **Final Project for the "Soy Henry" Bootcamp**
+- 📝 Currently immersed in **Upgrade my projects**
 
-- 📖 Currently expanding my knowledge in **Typescript, MongoDB, and Next.js**
+- 📖 Currently expanding my knowledge in **Typescript, Redux ToolKit, and Next.js**
 
 - 👥 Open to collaborating on exciting **back-end and front-end projects**
 
-- 🎮 In my free time, you can find me **listening to music, playing football or videogames...and coding**
+- 🎮 In my free time, you can find me **listening to music, playing football...and coding**
 
 ---
 
