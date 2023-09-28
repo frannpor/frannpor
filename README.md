@@ -4,9 +4,9 @@
 
 ---
 
-- 📝 Currently immersed in **Upgrade my projects**
+- 📝 Currently immersed in **a personal project**
 
-- 📖 Currently expanding my knowledge in **Typescript, Redux ToolKit, and Next.js**
+- 📖 Currently expanding my knowledge in **data structure, good practices and architectures**
 
 - 👥 Open to collaborating on exciting **back-end and front-end projects**
 
