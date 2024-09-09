@@ -1,16 +1,15 @@
 <h1 align="center">Hello! I'm Francisco Porciel 👋</h1>
 
-<h3 align="center">A backend developer with experience in various technologies and tools</h3>
+<h3 align="center">A Full Stack Developer with a passion for scalable systems and modern technologies</h3>
 
 ---
 
-- 📝 Currently immersed in **a personal project**
-
-- 📖 Currently expanding my knowledge in **data structure, good practices and architectures**
-
-- 👥 Open to collaborating on exciting **back-end and front-end projects**
-
-- 🎮 In my free time, you can find me **listening to music, playing football...and coding**
+- 💼 Currently working as an intern at **Trabajo en Digital**
+- 🛠 Developing a personal project using **AWS Lambdas, Cognito, NestJS, and Swagger**
+- 🚀 Exploring new programming languages like **C++, and Java**
+- 📖 Expanding knowledge in **system architecture, design patterns, and best practices**
+- 👥 Open to collaborating on exciting **back-end and full-stack projects**
+- 🎮 In my free time, you can find me **coding, playing football, and enjoying music**
 
 ---
 
@@ -18,20 +17,22 @@
 
 <div align="center">
   
-[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/css/)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![drizzle-orm](https://img.shields.io/badge/Drizzle_ORM-ff69b4?style=for-the-badge)](https://github.com/drizzle-team/drizzle-orm)
+[![trpc](https://img.shields.io/badge/TRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)](https://trpc.io/)
+[![zod](https://img.shields.io/badge/Zod-007ACC?style=for-the-badge)](https://zod.dev/)
 [![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
-[![sequalize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
   
+</div> 
 </div>
 
 ---
@@ -42,7 +43,6 @@
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://frann-dev.onrender.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frannpor/)
-<!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frannporciel/)-->
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frannporciel@gmail.com)
   
 </div>
