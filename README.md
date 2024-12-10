@@ -5,7 +5,7 @@
 ---
 
 - 💼 Currently working as an intern at **Trabajo en Digital**
-- 🛠 Developing a personal project using **AWS Lambdas, Cognito, NestJS, and Swagger**
+- 🛠 Developing a personal project using **AWS Buckets, tRPC, Next 15, and SSE**
 - 🚀 Exploring new programming languages like **C++, and Java**
 - 📖 Expanding knowledge in **system architecture, design patterns, and best practices**
 - 👥 Open to collaborating on exciting **back-end and full-stack projects**
@@ -28,9 +28,7 @@
 [![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
   
 </div> 
 </div>
