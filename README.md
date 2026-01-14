@@ -5,13 +5,12 @@
 ---
 
 - 💼 Currently working as a Full Stack Developer at **Brace Developers**, handling end-to-end features and logic
-- 🛠 Architecting **WePlay** and **Nisaley** using **Next.js 15, tRPC v11, AWS (S3), and SSE**
 - 🤖 Building **AI Agent workflows** for practical automation, data classification, and content generation
 - 🕸️ Experienced in **Advanced Scraping** (Puppeteer/Playwright) for **price comparison engines** and market analysis
 - 🎵 Developing domain-specific solutions for **Music Apps**, utilizing audio libraries and custom data pipelines
 - 📖 Continuously improving in **system architecture, robust error handling, and design patterns**
 - 👥 Open to collaborating on **backend-heavy** or **full-stack** projects with high technical complexity
-- 🎮 In my free time, you can find me **coding, playing CS2, or enjoying good Rock music**
+- 🎮 In my free time, you can find me **coding, playing games, or enjoying music**
 
 ---
 
