@@ -1,16 +1,26 @@
 <h1 align="center">Hello! I'm Francisco Porciel 👋</h1>
 
-<h3 align="center">A Full Stack Developer focused on scalable architecture, agentic AI, and product-oriented solutions</h3>
+<h3 align="center">Full Stack Developer building backend-heavy systems, automation workflows, and product-oriented solutions</h3>
 
 ---
 
 - 💼 Currently working as a Full Stack Developer at **Brace Developers**, handling end-to-end features and logic
-- 🤖 Building **AI Agent workflows** for practical automation, data classification, and content generation
-- 🕸️ Experienced in **Advanced Scraping** (Puppeteer/Playwright) for **price comparison engines** and market analysis
+- 🤖 Building AI workflows for practical automation, data classification, and content generation
+- 🧠 Explored and analyzed complex architectures (micro-frontends, DDD, hexagonal backends, CI/CD pipelines) to understand how large systems are structured and deployed
+- 🕸️ Experienced in scraping and automation using Puppeteer/Playwright for price comparison and data extraction
 - 🎵 Developing domain-specific solutions for **Music Apps**, utilizing audio libraries and custom data pipelines
-- 📖 Continuously improving in **system architecture, robust error handling, and design patterns**
-- 👥 Open to collaborating on **backend-heavy** or **full-stack** projects with high technical complexity
-- 🎮 In my free time, you can find me **coding, playing games, or enjoying music**
+- 📖 Focused on system architecture, clean backend logic, and building things that actually scale
+- 👥 Open to backend-heavy or full-stack projects with real product complexity
+- 🎮 Outside of work: coding, games, and music
+
+---
+
+<h3 align="center">What I build</h3>
+
+- Systems with non-trivial backend logic
+- Products that involve payments, automation, integrations and data flows
+- Tools that reduce manual work through automation and AI
+- Interfaces that look simple, backed by complex logic underneath
 
 ---
 
