@@ -26,11 +26,11 @@ Frontend, backend and operational workflows for a logistics SaaS serving multipl
 
 A storefront and operations system for an ice cream shop and café. Interfaces, backend, AWS infrastructure and Android integration for receipt printing. [Visit Firenze ↗](https://heladeriafirenze.com/)
 
-![Avateen — user journeys, backend and integrations](./assets/avateen-card.svg)
+[![Avateen — user journeys, backend and integrations](./assets/avateen-card.svg)](https://www.frannpor-dev.com/#contexts)
 
 Work on interfaces, user flows, backend services and integrations for a mental health support platform, with **Brace Developers**.
 
-![WePlay — meet, play and learn together. Personal project, paused.](./assets/weplay-card.svg)
+[![WePlay — meet, play and learn together. Personal project, paused.](./assets/weplay-card.svg)](https://www.frannpor-dev.com/#projects)
 
 A personal idea I want to return to: a welcoming place to find teammates, enjoy a game and learn together, whatever your experience or personality. **Currently paused.**
 
