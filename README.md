@@ -1,80 +1,64 @@
-<h1 align="center">Hello! I'm Francisco Porciel 👋</h1>
-
-<h3 align="center">Full Stack Developer building backend-heavy systems, automation workflows, and product-oriented solutions</h3>
-
----
-
-- 💼 Currently working as a Full Stack Developer at **Brace Developers**, handling end-to-end features and logic
-- 🤖 Building AI workflows for practical automation, data classification, and content generation
-- 🧠 Explored and analyzed complex architectures (micro-frontends, DDD, hexagonal backends, CI/CD pipelines) to understand how large systems are structured and deployed
-- 🕸️ Experienced in scraping and automation using Puppeteer/Playwright for price comparison and data extraction
-- 🎵 Developing domain-specific solutions for **Music Apps**, utilizing audio libraries and custom data pipelines
-- 📖 Focused on system architecture, clean backend logic, and building things that actually scale
-- 👥 Open to backend-heavy or full-stack projects with real product complexity
-- 🎮 Outside of work: coding, games, and music
-
----
-
-<h3 align="center">What I build</h3>
-
-- Systems with non-trivial backend logic
-- Products that involve payments, automation, integrations and data flows
-- Tools that reduce manual work through automation and AI
-- Interfaces that look simple, backed by complex logic underneath
-
----
-
-<h3 align="center">🛠 Languages and Tools:</h3>
-
-<div align="center">
-
-[![nextjs](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-[![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![trpc](https://img.shields.io/badge/tRPC_v11-2596BE?style=for-the-badge&logo=trpc&logoColor=white)](https://trpc.io/)
-[![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
-[![drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
-[![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-[![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![aws](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)](https://pptr.dev/)
-
-</div>
-
----
-
-<h3 align="center">🚀 Featured Projects & Contact:</h3>
-
-<div align="center">
-
-[![nisaley](https://img.shields.io/badge/Nisaley-blueviolet?style=for-the-badge)](https://nisaley.vercel.app/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://frannpor-portfolio.onrender.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frannpor/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:porcielfranciscoramon@gmail.com)
-
-</div>
-
----
-
-<h3 align="center">🌟 Workflow & Methodologies</h3>
-
-<div align="center">
-
-[![scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
-[![clickup](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)](https://clickup.com/)
-[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
-[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-</div>
-
----
+<p align="center">
+  <img src="./assets/profile-cover.png" alt="Francisco Porciel — Full Stack Developer. Interfaces, producto e infraestructura." width="100%" />
+</p>
 
 <p align="center">
-Thank you for visiting my profile! I enjoy solving real-world problems through code, whether it's optimizing a database query or automating a complex workflow. Feel free to explore my repositories.
+  <a href="https://www.frannpor-dev.com/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/frannpor/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:porcielfranciscoramon@gmail.com">Email</a>
 </p>
+
+## Hi, I'm Fran.
+
+I'm a **Full Stack Developer at Brace Developers**, based in Lobos, Buenos Aires, Argentina. I work with clients and teams to build web applications, from user journeys and interfaces to backend services, integrations and infrastructure.
+
+I enjoy understanding how people use a product, refining the details of an interface and connecting it to a system that supports their day-to-day work. My experience includes logistics, e-commerce, operational tools and mental health products.
+
+### What I'm working on
+
+| Project | Context and contribution |
+| --- | --- |
+| **[PLY](https://www.ply-tech.com/)** | A logistics SaaS platform evolved from Llano Envíos. Frontend, backend and daily operational workflows, with support for multiple organizations, working with Brace Developers. |
+| **Avateen** | Frontend, backend, user flows and integrations for a mental health support platform, working with Brace Developers. |
+| **[Firenze](https://heladeriafirenze.com/)** | A digital storefront and branch operations system for an ice cream shop and café. Interfaces, backend, AWS infrastructure and Android integration for receipt printing. |
+| **WePlay** | A personal project, currently paused, that I want to return to: helping people with different personalities and levels of experience find teammates, play and learn together. |
+
+### Tools and experience
+
+| Area | Tools and practices |
+| --- | --- |
+| Interfaces | TypeScript, React, Next.js, Tailwind CSS, accessible interaction states and responsive layouts |
+| Backend and data | Node.js, NestJS, REST APIs, tRPC, PostgreSQL, TypeORM, Drizzle and Redis |
+| Infrastructure | AWS CDK, CloudFormation, Docker, ECS/EC2, RDS, S3 and SQS |
+| Delivery and operations | GitHub Actions, CI/CD, IAM permissions, secrets management and CloudWatch |
+
+I've been expanding my infrastructure experience alongside product development. Firenze, in particular, brought together storefront UX, branch operations, API contracts, deployment workflows and observability.
+
+### AI in my workflow
+
+I use AI and agents to research, explore alternatives, implement features and review code. I define the scope, check the implementation and test the result before bringing changes into a project. I stay involved in the decisions and the quality of what I deliver.
+
+### Let's talk
+
+I'm interested in teams where I can work closely with the product, talk to clients and users, and build with autonomy.
+
+**[Explore my portfolio](https://www.frannpor-dev.com/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/frannpor/)** · **[Send me an email](mailto:porcielfranciscoramon@gmail.com)**
+
+English: B2. Outside work, I enjoy games, music and building ideas of my own.
+
+<details>
+<summary>En español</summary>
+
+Soy **Full Stack Developer en Brace Developers** y vivo en Lobos, Buenos Aires. Trabajo con clientes y equipos en aplicaciones web: desde los flujos y las interfaces hasta el backend, las integraciones y la infraestructura.
+
+Me gusta entender cómo se usa un producto, cuidar los detalles de la interfaz y conectar las partes del sistema. Mi experiencia incluye logística, comercio electrónico, gestión de operaciones y productos de salud mental.
+
+En proyectos como PLY, Avateen y Firenze fui ampliando mi trabajo con TypeScript, React, Next.js, NestJS, PostgreSQL y servicios AWS. También trabajé en infraestructura como código, contenedores, permisos, gestión de secretos y flujos de despliegue.
+
+Uso IA y agentes para investigar, explorar alternativas, desarrollar y revisar. Defino el alcance y valido el código y el resultado antes de incorporar cambios al proyecto.
+
+WePlay es una idea propia que quiero retomar: un espacio donde gente con distintas formas de ser y niveles de experiencia pueda encontrarse, jugar y aprender en comunidad.
+
+[Portfolio](https://www.frannpor-dev.com/) · [LinkedIn](https://www.linkedin.com/in/frannpor/) · [Contacto](mailto:porcielfranciscoramon@gmail.com)
+
+</details>
