@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">PLY — logistics SaaS</title><desc id="desc">A purple project card with parcels connected by a delivery route.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#23183f"/><stop offset="1" stop-color="#161323"/></linearGradient></defs>
+  <rect x="1" y="1" width="898" height="178" rx="20" fill="url(#bg)" stroke="#574474"/>
+  <g fill="none" stroke="#b795eb" opacity=".22"><path d="M530 1v178M620 1v178M710 1v178M800 1v178M530 60h369M530 120h369"/></g>
+  <text x="34" y="39" fill="#c5b1e5" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">01 / LOGISTICS</text>
+  <text x="32" y="101" fill="#f7f1ff" font-family="Arial,sans-serif" font-size="52" font-weight="700">PLY<tspan fill="#d5fb72">.</tspan></text>
+  <text x="34" y="143" fill="#d4c7e7" font-family="Arial,sans-serif" font-size="21">From Llano Envíos to a logistics SaaS</text>
+  <path d="M572 122h47c20 0 20-66 44-66h39c25 0 22 67 49 67h88" fill="none" stroke="#cffa69" stroke-width="3" stroke-dasharray="5 8" stroke-linecap="round"/>
+  <g stroke="#ded1f3" stroke-width="2" stroke-linejoin="round"><path d="m566 73 30-17 30 17v36l-30 17-30-17z" fill="#62458c"/><path d="m566 73 30 17 30-17m-30 17v36m-15-62 30 17" fill="none"/><path d="m757 40 29-16 29 16v35l-29 16-29-16z" fill="#392b54"/><path d="m757 40 29 16 29-16m-29 16v35" fill="none"/></g>
+  <circle cx="707" cy="57" r="7" fill="#cffa69"/><circle cx="839" cy="123" r="7" fill="#cffa69"/><path d="m853 33 11-11m-11 0h11v11" fill="none" stroke="#d5fb72" stroke-width="2"/>
+</svg>

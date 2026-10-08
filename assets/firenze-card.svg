@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Firenze — commerce and operations</title><desc id="desc">A warm cream project card with an ice cream cone and a receipt.</desc>
+  <rect x="1" y="1" width="898" height="178" rx="20" fill="#f5efdf" stroke="#dccbb1"/>
+  <path d="M529 1v178" stroke="#dccbb1"/><circle cx="719" cy="90" r="107" fill="#eae1cc"/>
+  <text x="34" y="39" fill="#796349" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">02 / COMMERCE + OPERATIONS</text>
+  <text x="32" y="102" fill="#362c21" font-family="Georgia,serif" font-size="57">Firenze</text>
+  <text x="34" y="143" fill="#665441" font-family="Arial,sans-serif" font-size="21">Storefront, branch tools &amp; AWS</text>
+  <g transform="translate(731 30) rotate(9)"><path d="M0 0h91v121l-9-5-10 5-10-5-10 5-10-5-10 5-10-5-10 5-12-5z" fill="#fffdf6" stroke="#bca787" stroke-width="2"/><path d="M17 25h57M17 40h38M17 69h57M17 84h57M17 100h29" stroke="#bca787" stroke-width="3" stroke-linecap="round"/><circle cx="70" cy="104" r="5" fill="#768653"/></g>
+  <path d="m586 91 31 64 31-64" fill="#c4965e" stroke="#987045" stroke-width="2"/><path d="m599 100 24 43m13-43-24 43m-17-22h45" stroke="#edcfa1" stroke-width="2"/>
+  <path d="M581 84c-4-12 4-23 13-25-4-20 27-39 43-17 14-1 22 20 15 32 12 15 2 29-9 26h-51c-13 1-17-7-11-16" fill="#879761" stroke="#667548" stroke-width="2"/>
+  <path d="m853 33 11-11m-11 0h11v11" fill="none" stroke="#796349" stroke-width="2"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">WePlay — a personal gaming community project, paused</title><desc id="desc">A forest green project card with a playful controller and connecting circles.</desc>
+  <rect x="1" y="1" width="898" height="178" rx="20" fill="#17231c" stroke="#354b37"/>
+  <text x="34" y="39" fill="#b7cbb7" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">04 / PERSONAL PROJECT · PAUSED</text>
+  <text x="32" y="101" fill="#eef3e9" font-family="Arial,sans-serif" font-size="52" font-weight="700">WePlay<tspan fill="#d5fb72">.</tspan></text>
+  <text x="34" y="143" fill="#c5d4c0" font-family="Arial,sans-serif" font-size="21">Meet. Play. Learn together.</text>
+  <g fill="none" stroke="#426246"><circle cx="722" cy="92" r="72"/><circle cx="722" cy="92" r="91" stroke-dasharray="4 7"/><path d="M565 92h60m190 0h51"/></g>
+  <circle cx="565" cy="92" r="8" fill="#d5fb72"/><circle cx="864" cy="92" r="8" fill="#d5fb72"/>
+  <path d="M683 66h78c18 0 31 31 35 56 3 21-16 24-28 9l-15-16h-66l-14 16c-12 15-31 12-28-9 4-25 18-56 38-56" fill="#d5fb72" stroke="#e0ff9b" stroke-width="2"/>
+  <path d="M678 80v24m-12-12h24" stroke="#263a21" stroke-width="5" stroke-linecap="round"/><circle cx="758" cy="85" r="5" fill="#263a21"/><circle cx="771" cy="100" r="5" fill="#263a21"/>
+</svg>

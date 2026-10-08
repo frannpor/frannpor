@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Avateen — mental health support</title><desc id="desc">A light project card with colorful paths joining people and interfaces.</desc>
+  <rect x="1" y="1" width="898" height="178" rx="20" fill="#fafafa" stroke="#dedce5"/>
+  <text x="34" y="39" fill="#776881" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">03 / MENTAL HEALTH</text>
+  <text x="32" y="101" fill="#28212e" font-family="Arial,sans-serif" font-size="52" font-weight="700">Avateen</text>
+  <text x="34" y="143" fill="#75677e" font-family="Arial,sans-serif" font-size="21">User journeys, backend &amp; integrations</text>
+  <circle cx="732" cy="89" r="73" fill="#f2ecf8"/><g fill="none" stroke-linecap="round" stroke-width="3"><path d="M563 99c58-86 72-85 120-9s72 74 139-19" stroke="#b27ae1"/><path d="M566 66c59 96 91 69 141 0s73-42 128 27" stroke="#dd4dab"/><path d="M565 128c43-22 77-30 119-9s93-56 148-76" stroke="#52bacd"/></g>
+  <rect x="691" y="53" width="74" height="74" rx="17" fill="#fff" stroke="#d1bcdf" stroke-width="2"/><circle cx="728" cy="77" r="10" fill="#d8c3eb"/><path d="M708 109c2-21 38-21 40 0" fill="#eadff2"/>
+  <circle cx="565" cy="66" r="5" fill="#dd4dab"/><circle cx="832" cy="43" r="5" fill="#52bacd"/>
+</svg>
