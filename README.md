@@ -1,84 +1,46 @@
-<p align="center">
-  <a href="https://www.frannpor-dev.com/">
-    <img src="./assets/profile-cover.png" alt="Francisco Porciel — Full Stack Developer. Explore my portfolio." width="100%" />
-  </a>
-</p>
+<a href="https://www.frannpor-dev.com/"><img src="./assets/banner.png" alt="Francisco Porciel, full stack developer at Brace Developers. I ask before I code." width="100%" /></a>
 
 <p align="center">
-  <a href="https://www.frannpor-dev.com/"><img src="./assets/link-portfolio.svg" alt="Explore my portfolio" width="156" height="42" /></a>
-  <a href="https://www.linkedin.com/in/frannpor/"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" width="156" height="42" /></a>
-  <a href="mailto:porcielfranciscoramon@gmail.com"><img src="./assets/link-email.svg" alt="Email me" width="156" height="42" /></a>
+  <a href="https://www.frannpor-dev.com/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/frannpor/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:porcielfranciscoramon@gmail.com">porcielfranciscoramon@gmail.com</a>
 </p>
 
-## Hi, I'm Fran.
+I build web products end to end at **Brace Developers**: interfaces, APIs, data and AWS infrastructure. Before writing code I like to understand how the business works and ask the questions nobody has asked yet.
 
-I'm a **Full Stack Developer building at Brace Developers**, based in Lobos, Buenos Aires, Argentina. I work with clients and teams on web products: interfaces, backend services, integrations and AWS infrastructure.
+## Work
 
-I like talking to the people who use what I build, making interfaces feel good and understanding how the system works behind them. Lately, I've been spending more time on infrastructure, deployment workflows and AI-assisted development.
+<a href="https://www.ply-tech.com/"><img src="./assets/ply.png" alt="PLY, a logistics SaaS for many organizations" width="100%" /></a>
 
-## A few things I've been building
+<a href="https://heladeriafirenze.com/"><img src="./assets/firenze.png" alt="Firenze, storefront and branch operations for an ice cream shop" width="100%" /></a>
 
-[![PLY — logistics SaaS evolved from Llano Envíos](./assets/ply-card.svg)](https://www.ply-tech.com/)
+<a href="https://www.frannpor-dev.com/#contexts"><img src="./assets/avateen.png" alt="Avateen, a mental health platform with one portal per role" width="100%" /></a>
 
-Frontend, backend and operational workflows for a logistics SaaS serving multiple organizations. Built with **Brace Developers**. [Visit PLY ↗](https://www.ply-tech.com/)
+<a href="https://www.frannpor-dev.com/#projects"><img src="./assets/weplay.png" alt="WePlay, a personal project to find teammates, currently paused" width="100%" /></a>
 
-[![Firenze — storefront, branch tools and AWS](./assets/firenze-card.svg)](https://heladeriafirenze.com/)
+## Stack
 
-A storefront and operations system for an ice cream shop and café. Interfaces, backend, AWS infrastructure and Android integration for receipt printing. [Visit Firenze ↗](https://heladeriafirenze.com/)
+**Front** TypeScript · React · Next.js · Tailwind<br />
+**Back** Node.js · NestJS · tRPC · PostgreSQL · Redis<br />
+**Cloud** AWS CDK · ECS · RDS · S3 · SQS · Docker · GitHub Actions
 
-[![Avateen — user journeys, backend and integrations](./assets/avateen-card.svg)](https://www.frannpor-dev.com/#contexts)
+AI is part of my workflow for research, alternatives and review. I set the scope and test what goes in.
 
-Work on interfaces, user flows, backend services and integrations for a mental health support platform, with **Brace Developers**.
-
-[![WePlay — meet, play and learn together. Personal project, paused.](./assets/weplay-card.svg)](https://www.frannpor-dev.com/#projects)
-
-A personal idea I want to return to: a welcoming place to find teammates, enjoy a game and learn together, whatever your experience or personality. **Currently paused.**
-
-## What I work with
-
-**Interfaces** &nbsp; TypeScript · React · Next.js · Tailwind CSS<br />
-**Backend & data** &nbsp; Node.js · NestJS · PostgreSQL<br />
-**Infrastructure & delivery** &nbsp; AWS · Docker · GitHub Actions
-
-<details>
-<summary>More about my technical experience</summary>
-
-- **Interfaces:** responsive layouts, accessible interaction states and user flows.
-- **Backend and data:** REST APIs, tRPC, TypeORM, Drizzle and Redis.
-- **AWS infrastructure:** CDK, CloudFormation, ECS on EC2, RDS, S3 and SQS.
-- **Delivery and operations:** CI/CD, IAM permissions, secrets management and CloudWatch.
-
-Firenze brought several of these areas together: storefront UX, branch operations, API contracts, infrastructure as code and deployment workflows.
-
-</details>
-
-### AI, used responsibly
-
-I use AI and agents to research, explore alternatives, implement and review code. I set the scope, review the changes and test the result. They've become part of how I work, alongside conversations with clients and hands-on product development.
-
-## Got something in mind?
-
-I'd like to work with teams where I can get involved in the product, talk to clients and users, and build with autonomy.
-
-**[Let's talk ↗](mailto:porcielfranciscoramon@gmail.com)** &nbsp; / &nbsp; **[See my work ↗](https://www.frannpor-dev.com/)**
-
-<sub>Lobos, Buenos Aires · English B2 · Games, music and ideas worth building.</sub>
-
----
+<sub>Lobos, Buenos Aires · English B2 · Usually building something to play with friends.</sub>
 
 <details>
 <summary>En español</summary>
+<br />
 
-Soy **Full Stack Developer en Brace Developers** y vivo en Lobos, Buenos Aires. Trabajo con clientes y equipos en aplicaciones web: desde los flujos y las interfaces hasta el backend, las integraciones y la infraestructura.
+Desarrollo productos web de punta a punta en **Brace Developers**: interfaces, APIs, datos e infraestructura en AWS. Antes de programar me gusta entender cómo funciona el negocio y hacer las preguntas que todavía nadie hizo.
 
-Me gusta entender cómo se usa un producto, cuidar los detalles de la interfaz y conectar las partes del sistema. Mi experiencia incluye logística, comercio electrónico, gestión de operaciones y productos de salud mental.
+- **PLY:** SaaS logístico para varias organizaciones, cada una con sus datos y sus roles.
+- **Firenze:** tienda y operación por sucursal para una heladería, con la infraestructura en AWS como código.
+- **Avateen:** plataforma de salud mental con un portal por rol para adolescentes, cuidadores y psicólogos.
+- **WePlay:** proyecto propio para encontrar compañeros y jugar. En pausa.
 
-En proyectos como PLY, Avateen y Firenze fui ampliando mi trabajo con TypeScript, React, Next.js, NestJS, PostgreSQL y servicios AWS. También trabajé en infraestructura como código, contenedores, permisos, gestión de secretos y flujos de despliegue.
+Uso IA para investigar, comparar alternativas y revisar. Defino el alcance y pruebo lo que entra.
 
-Uso IA y agentes para investigar, explorar alternativas, desarrollar y revisar. Defino el alcance y valido el código y el resultado antes de incorporar cambios al proyecto.
-
-WePlay es una idea propia que quiero retomar: un espacio donde gente con distintas formas de ser y niveles de experiencia pueda encontrarse, jugar y aprender en comunidad.
-
-[Portfolio](https://www.frannpor-dev.com/) · [LinkedIn](https://www.linkedin.com/in/frannpor/) · [Contacto](mailto:porcielfranciscoramon@gmail.com)
+[Portfolio](https://www.frannpor-dev.com/) · [LinkedIn](https://www.linkedin.com/in/frannpor/) · [Email](mailto:porcielfranciscoramon@gmail.com)
 
 </details>
